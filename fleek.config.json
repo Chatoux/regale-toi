@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "loud-garage-gigantic",
+      "distDir": "out",
+      "buildCommand": "npm run build"
+    }
+  ]
+}
