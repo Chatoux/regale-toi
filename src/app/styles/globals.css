@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  transition: background-color 0.3s ease;
+}
+
+.header-link:hover {
+  text-decoration: underline;
+}
